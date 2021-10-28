@@ -14,7 +14,7 @@ def solution(xs):
     posList = filter(lambda x: x > 0, xs)
     negList = filter(lambda x: x < 0, xs)
 
-    # remove first occurrence of unproductive odd number if negative list is odd.
+    # remove first occurrence of unproductive negative number if negList is odd.
     if len(negList) % 2:
         negList.remove(max(negList))
 
