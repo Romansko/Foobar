@@ -1,5 +1,5 @@
 # GooBar
-Solutions to Google Foobar's challenges.
+Solutions to [Google Foobar](https://foobar.withgoogle.com/)'s challenges.
 
 
 ## Journal
