@@ -1,4 +1,5 @@
 # level1 - Braille
+# https://github.com/Romansko/GooBar/blob/main/level1/solution.py
 
 def solution(s):
     capital = "000001"
