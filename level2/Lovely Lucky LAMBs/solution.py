@@ -1,6 +1,6 @@
 # Python 2.7.13
 # level2 - Lovely Lucky LAMBs
-# https://github.com/Romansko/GooBar/blob/main/level2/solution.py
+# https://github.com/Romansko/Foobar/blob/main/level2/solution.py
 
 def generous(total_lambs):
     """ pay lambs generously. return payroll. assume total_lambs > 0. """
