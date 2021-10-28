@@ -6,13 +6,13 @@ def solution(xs):
     if not xs or type(xs) is not list:
         return str(0)
 
+    # This shit took me 1 hour to detect. if xs is a single negative element, return that element and not 0.
+    if len(xs) == 1:
+        return str(xs[0])
+
     # Build positive and negative numbers list
     posList = filter(lambda x: x > 0, xs)
     negList = filter(lambda x: x < 0, xs)
-
-    # This shit took me 1 hour to detect. if xs is a single negative element, return that element..
-    if (len(xs) == 1) and (xs[0] < 0):
-        return str(xs[0])
 
     # remove first occurrence of unproductive odd number if negative list is odd.
     if len(negList) % 2:
