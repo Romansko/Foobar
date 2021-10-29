@@ -1,6 +1,6 @@
 Braille Translation
 ===================
-<br>
+
 <br>Because Commander Lambda is an equal-opportunity despot, she has several visually-impaired minions. 
 <br>But she never bothered to follow intergalactic standards for workplace accommodations, 
 <br>so those minions have a hard time navigating her space station. 
@@ -29,15 +29,16 @@ Braille Translation
 <br>the bumps and absence of bumps in the input string. Your function should be able to encode the 26 lowercase letters, 
 <br>handle capital letters by adding a Braille capitalization mark before that character, and use a blank character (000000) 
 <br>for spaces. All signs on the space station are less than fifty characters long and use only letters and spaces.
-<br>
+
 Languages
 =========
-<br>
+
 <br>To provide a Python solution, edit solution.py
 <br>To provide a Java solution, edit Solution.java
-<br>
+
 Test cases
 ==========
+
 <br>Your code should pass the following test cases.
 <br>Note that it may also be run against hidden test cases not shown here.
 <br>

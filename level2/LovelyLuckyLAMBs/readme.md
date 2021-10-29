@@ -1,6 +1,6 @@
 Lovely Lucky LAMBs
 ==================
-<br>
+
 <br>Being a henchman isn't all drudgery. Occasionally, when feeling generous, Commander Lambda hand out Lucky LAMBs (Lambda's All-purpose Money Bucks). Henchmen can use Lucky LAMBs to buy things like a second pair of socks, a pillow for their bunks, or even a third daily meal!
 <br>
 <br>However, actually passing out LAMBs isn't easy. Each henchman squad has a strict seniority ranking which must be respected -- or else the henchmen will revolt and you'll all get demoted back to minions again! 
@@ -17,14 +17,18 @@ Lovely Lucky LAMBs
 <br>
 <br>To keep things interesting, Commander Lambda varies the sizes of the Lucky LAMB payouts. You can expect total_lambs to always be a positive integer less than 1 billion (10 ^ 9).
 <br>
+
 Languages
 =========
+
 <br>
 <br>To provide a Python solution, edit solution.py
 <br>To provide a Java solution, edit Solution.java
-<br>
+
+
 Test cases
 ==========
+
 <br>Your code should pass the following test cases.
 <br>Note that it may also be run against hidden test cases not shown here.
 <br>
