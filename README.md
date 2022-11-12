@@ -1,4 +1,4 @@
-# GooBar
+# FooBar
 Solutions to [Google Foobar](https://foobar.withgoogle.com/)'s challenges.
 
 After searching for ```dependency injection``` on google, i've received an invitation to try Google's Foobar challenges.
